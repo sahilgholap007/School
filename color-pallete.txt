@@ -1,0 +1,12 @@
+#3F8EE7
+#FFD166
+#4CAF50
+#FF6B81
+#ffa500
+#A599E9
+
+text-color
+#301772
+
+button-color
+#fe5d37
